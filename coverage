@@ -1,0 +1,5 @@
+mode: set
+example.com/sun/sun.go:5.13,7.2 1 0
+example.com/sun/sun.go:9.28,11.2 1 1
+example.com/sun/sun.go:13.30,15.2 1 0
+example.com/sun/sun.go:17.29,19.2 1 0
