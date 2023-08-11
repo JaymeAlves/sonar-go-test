@@ -1,12 +1,12 @@
 # SonarQube lab
 
-The objective of this repo is just a lab to learn more about SonarQube andgit  test coverage.
+The objective of this repo is just a lab to learn more about SonarQube and code coverage.
 
 # Cloud scenario v2
 
 ## Setting sonar cloud
 
-In order to be abble to test in a cloud scenario, it was necessary to create a ci yaml with github actions that was placed in .github -> workflows folder. The chosen service to perform the checks was sonarcloud.io, with some small adjustments in sonar-project.properties, the checks could be handle by the pipeline.
+To enable testing in a cloud scenario, it was necessary to create a CI YAML file using GitHub Actions, which was placed in the .github/workflows folder. The selected service for conducting the checks was SonarCloud.io. With some minor adjustments in the sonar-project.properties file, the checks could be managed by the pipeline.
 
 <img src="/assets/img/sonar_cloud.PNG">
 
