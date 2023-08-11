@@ -1,6 +1,6 @@
 # SonarQube lab
 
-The objective of this repo is just a lab to learn more about SonarQube and test coverage.
+The objective of this repo is just a lab to learn more about SonarQube andgit  test coverage.
 
 # Cloud scenario v2
 
